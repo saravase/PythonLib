@@ -1,0 +1,13 @@
+Day,City,Temperature,Wind Speed,Event
+1/1/2017,Tamilnadu,89,8,Rain
+2/1/2017,Tamilnadu,65,2,Sunny
+3/1/2017,Tamilnadu,43,13,Snow
+4/1/2017,Tamilnadu,34,9,Fog
+1/1/2017,Kerala,65,7,Cloudy
+2/1/2017,Kerala,83,12,Rain
+3/1/2017,Kerala,23,3,Sunny
+4/1/2017,Kerala,68,7,Snow
+1/1/2017,Mumbai,43,1,Fog
+2/1/2017,Mumbai,87,17,Cloudy
+3/1/2017,Mumbai,96,1,Rain
+4/1/2017,Mumbai,92,12,Sunny
